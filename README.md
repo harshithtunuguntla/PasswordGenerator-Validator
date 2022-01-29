@@ -2,14 +2,14 @@
 
 ## Project 1 of 60DaysProjects
 
-This is a simple password generator, validator will be added soon
+This is a simple password generator, validator webapp
+
+Webapp Link: https://password-generator-validator.netlify.app/
 
 
-Webapp : https://password-generator-validator.netlify.app/
+<hr>
 
-
-Status : Done ✅
-
+**Status** : Done ✅
 
 ### Additional Improvements that can be done
 
