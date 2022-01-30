@@ -18,3 +18,4 @@ Webapp Link: https://password-generator-validator.netlify.app/
 - Password copy to clipboard button
 - Seeing password as plain text toggling
 - More variables in generating password
+- Dynamic EventListner on Password Validator instead of button click to validate password
